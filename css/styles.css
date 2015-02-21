@@ -1,0 +1,15 @@
+body {
+  padding-top: 60px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#map {
+  height: 580px;
+}
+
+#search-term {
+  width: 400px;
+}
